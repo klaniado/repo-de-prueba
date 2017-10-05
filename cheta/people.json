@@ -1,0 +1,2 @@
+{"id":1,"nombre":"diego","apellido":"perez","mail":"algo@algo.com","password":"123456789","sexo":"masculino","nacio":"<br \/>\r\n<b>Notice<\/b>:  Undefined index: fnac in <b>C:\\xampp\\htdocs\\php\\e-commerce\\validacion.php<\/b> on line <b>45<\/b><br \/>\r\n","telefono":"1152526262","country":null,"mensaje":"quiero registrarme\r\n"}
+{"nombre":"kevinsdfd","usuario":"asdasdasdasdasd","mail":"a@a.com","edad":"55","pais":"DZ","password":"$2y$10$GEbab35ZxVhF3TeaBc1RUu3Iwn8\/RYbApel5aqhGvv6DXZy\/HadWu","id":2}
